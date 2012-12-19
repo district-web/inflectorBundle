@@ -1,6 +1,6 @@
 <?php
 
-namespace Dw\Bundle\InflectorBundle\DependencyInjection;
+namespace DistrictWeb\InflectorBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Dw\Bundle\InflectorBundle;
+namespace DistrictWeb\InflectorBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

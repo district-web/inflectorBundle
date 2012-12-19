@@ -1,6 +1,6 @@
 <?php
 
-namespace Dw\Bundle\InflectorBundle\Controller;
+namespace DistrictWeb\InflectorBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;

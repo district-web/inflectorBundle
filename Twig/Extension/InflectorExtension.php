@@ -1,8 +1,8 @@
 <?php
 
-namespace Dw\Bundle\InflectorBundle\Twig\Extension;
+namespace DistrictWeb\InflectorBundle\Twig\Extension;
 
-use Dw\Bundle\InflectorBundle\Tools\Inflector;
+use DistrictWeb\InflectorBundle\Tools\Inflector;
 
 class InflectorExtension extends \Twig_Extension
 {

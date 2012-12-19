@@ -1,6 +1,6 @@
 <?php
 
-namespace Dw\Bundle\InflectorBundle\Tests\Controller;
+namespace DistrictWeb\InflectorBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

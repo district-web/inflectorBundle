@@ -1,6 +1,6 @@
 <?php
 
-namespace Dw\Bundle\InflectorBundle\Tools;
+namespace DistrictWeb\InflectorBundle\Tools;
 
 class Inflector 
 {
